@@ -8,4 +8,6 @@ Main tasks:
 -> Manually annotate all the posts according to topology. 
 -> tf - idf idk have to do????
 
+-> Check all the points at the end to make sure the project is done correctly.
+
 
