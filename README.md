@@ -1,6 +1,6 @@
 # Comp598---Final-Project
 
-****************************   The link to the final project's report can be found in the abouts section of the repository       **********************
+************  The link to the final project's report can be found in the abouts section of the repository  *************
 
 Main tasks:
 -> The topics that they want to know : 1) topics associated with each candidate 2) The engagement on these topics with respect to their party.  
