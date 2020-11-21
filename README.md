@@ -7,7 +7,8 @@
 * The topics that they want to know: <br>
           - Topics associated with each candidate <br>
           - The engagement on these topics with respect to their party.  
-* Collect 333 posts from each r/politics and r/conservatives for a 3 day period. (Deciding how to collect)
+* Collect 333 posts from each r/politics and r/conservatives for a 3 day period. (Deciding how to collect) <br>
+          - 170 hot and 170 new per subbredit
 * Keep only posts that mention either Trump or Biden 
 * Open coding on 200 posts to develop the topics 3-8
 * Manually annotate all the posts according to topology. 
