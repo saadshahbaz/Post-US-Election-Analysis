@@ -12,7 +12,7 @@
 * Keep only posts that mention either Trump or Biden 
 * Open coding on 200 posts to develop the topics 3-8
 * Manually annotate all the posts according to topology. 
-* tf - idf idk have to do????
+* Calculate tf - idf 
 * Check all the points at the end to make sure the project is done correctly.
 
 ## - Data:
