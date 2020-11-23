@@ -16,6 +16,7 @@
 * Check all the points at the end to make sure the project is done correctly.
 
 ## - Data:
+* A total of 1020 posts have been collected for each subreddit i.e r/politics and r/conservatives over a period of 3 days
 
 ## - Methods:
 
