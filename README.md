@@ -17,6 +17,8 @@
 
 ## - Data:
 * A total of 1020 posts have been collected for each subreddit i.e r/politics and r/conservatives over a period of 3 days
+* A python code written to remove identical users to remove multiple identical posts
+
 
 ## - Problems:
 * Multiple identical posts from different users
