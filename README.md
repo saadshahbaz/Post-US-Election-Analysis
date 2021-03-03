@@ -24,13 +24,11 @@
 * Multiple identical posts from different users
 * Topics with different words but the exact same contents
 
-## - Methods:
-
-## - Results:
-
 ## - Discussions:
+* Total idf calculated for each category
 
 ## - Final Notes:
+* Final Report written
 
 
 
