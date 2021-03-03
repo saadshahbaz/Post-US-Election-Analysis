@@ -21,7 +21,7 @@
 - For tftdf, wrote code - 
 
 # Results
-## * List of topics 
+##  List of topics 
 #### 1. Biden Campaign:
         - Any statement which seems to be from a Biden Supporter. It Could include bashing Trump, speaking up for Biden and supporting Biden in the election run
         - Any statement/post from a Republican representative describing their election campaign
